@@ -1,4 +1,4 @@
-package com.hongfei.focus.pattern.structural.proxy.staticproxy;
+package com.hongfei.focus.pattern.structural.proxy.staticproxy1;
 
 public class SimpleProxy implements Interface
 {
