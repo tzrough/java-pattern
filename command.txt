@@ -1,0 +1,12 @@
+git init
+git remote add origin https://github.com/tzrough/java-pattern.git
+git pull
+git clone https://github.com/tzrough/java-pattern.git
+ls
+cd java-pattern/
+git add .
+git commit -m 'test'
+git push
+
+
+
